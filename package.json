@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp_message",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^13.2.1",
+    "jquery": "^3.6.0",
+    "sequelize": "^6.6.5",
+    "shelljs": "^0.8.4",
+    "sqlite3": "^5.0.2",
+    "sweetalert2": "^11.1.4",
+    "venom-bot": "^3.1.2"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.10"
+  }
+}
